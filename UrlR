@@ -32,3 +32,29 @@ https://s3.amazonaws.com/academia.edu.documents/38269275/Intrusion_Detection_Usi
 ----Python 
 http://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf
 https://link.springer.com/article/10.1007/s10845-017-1315-5
+
+--Links download
+A Deep Learning Based Artificial Neural Network Approach for Intrusion Detection
+https://link.springer.com/chapter/10.1007/978-981-10-4642-1_5
+Anomaly Detection in Industrial Networks using Machine Learning: A Roadmap
+https://link.springer.com/chapter/10.1007/978-3-662-53806-7_8
+http://ieeexplore.ieee.org/abstract/document/7943463/
+Network attribute selection, classification and accuracy (NASCA) procedure for intrusion detection systems
+http://ieeexplore.ieee.org/abstract/document/7925283/
+The promise of machine learning in cybersecurity
+
+---Machine learning Software 
+https://www.techworld.com/picture-gallery/apps-wearables/best-ai-machine-learning-tools-for-developers-3657996/
+
+--Forum
+https://www.quora.com/What-is-the-best-software-to-implement-machine-learning-large-scale-data-mining-algorithms
+https://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html
+
+--R Studio 
+--datacamp
+https://www.datacamp.com/community/tutorials/machine-learning-in-r
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+https://www.r-project.org/
+https://spark.rstudio.com/mllib.html
+http://datascience.ibm.com/blog/scoring-with-watson-machine-learning-using-r/
+
